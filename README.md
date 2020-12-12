@@ -1,4 +1,4 @@
-### Hi 👋, I'm [Logan Miner](https://lrminer.github.io)
+### Hi, I'm [Logan Miner](https://lrminer.github.io)  👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrminer&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide_title=true" />
