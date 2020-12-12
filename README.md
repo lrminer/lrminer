@@ -6,13 +6,25 @@
 
 <p align="center">
     <a href="#">
+        <img src="./svg/dev/languages/html.svg" alt="html badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+    <a href="#">
+        <img src="./svg/dev/languages/css3.svg" alt="css3 badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+    <a href="#">
+        <img src="./svg/dev/languages/js.svg" alt="js badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+    <a href="#">
+        <img src="./svg/dev/languages/sass.svg" alt="sass badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+    <a href="#">
+        <img src="./svg/dev/frameworks/nodejs.svg" alt="nodejs badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+    <a href="#">
         <img src="./svg/dev/frameworks/react.svg" alt="react badge" style="vertical-align:top; margin:6px 4px;">
     </a>
     <a href="#">
         <img src="./svg/dev/frameworks/bootstrap.svg" alt="bootstrap badge" style="vertical-align:top; margin:6px 4px;">
-    </a>
-    <a href="#">
-        <img src="./svg/dev/languages/js.svg" alt="js badge" style="vertical-align:top; margin:6px 4px;">
     </a>
     <a href="#">
         <img src="./svg/dev/services/aws.svg" alt="aws badge" style="vertical-align:top; margin:6px 4px;">
