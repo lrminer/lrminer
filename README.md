@@ -32,7 +32,7 @@
     <a href="#">
         <img src="./svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform badge" style="vertical-align:top; margin:6px 4px;">
     </a>
-    <a href="#">
+    <a href="https://www.codewars.com/users/lrminer">
         <img src="./svg/dev/services/codewars.svg" alt="codewars badge" style="vertical-align:top; margin:6px 4px;">
     </a>
     <a href="#">
