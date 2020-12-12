@@ -27,6 +27,9 @@
         <img src="./svg/dev/frameworks/react.svg" alt="react badge" style="vertical-align:top; margin:6px 4px;">
     </a>
     <a href="#">
+        <img src="./svg/dev/tools/bash.svg" alt="bash badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+    <a href="#">
         <img src="./svg/dev/frameworks/bootstrap.svg" alt="bootstrap badge" style="vertical-align:top; margin:6px 4px;">
     </a>
     <a href="#">
