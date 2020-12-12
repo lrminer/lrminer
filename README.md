@@ -4,6 +4,9 @@
 
 [![lrminer's github stats](https://github-readme-stats.vercel.app/api?username=lrminer&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrminer&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
     <a href="#">
         <img src="./svg/dev/languages/html.svg" alt="html badge" style="vertical-align:top; margin:6px 4px;">
@@ -46,4 +49,3 @@
     </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrminer&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
