@@ -1,11 +1,11 @@
-### Hi there, I'm [Logan Miner](https://lrminer.github.io)
+### Hi 👋, I'm [Logan Miner](https://lrminer.github.io)
 
-
-
-[![lrminer's github stats](https://github-readme-stats.vercel.app/api?username=lrminer&hide_border=true&include_all_commits=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrminer&hide_border=true&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrminer&hide_border=true&include_all_commits=true&count_private=true&theme=react&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrminer&hide_border=true&layout=compact&theme=react" />
+</a>
 
 <p align="center">
     <a href="#">
