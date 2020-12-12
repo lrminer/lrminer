@@ -1,11 +1,37 @@
 ### Hi there, I'm [Logan Miner](https://lrminer.github.io)
 
-<p align="center">
-    <a href="#">
-        <img src="./svg/dev/frameworks/react.svg" alt="example badge" style="vertical-align:top; margin:6px 4px;">
-    </a>
-</p>
+
 
 [![lrminer's github stats](https://github-readme-stats.vercel.app/api?username=lrminer&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+    <a href="#">
+        <img src="./svg/dev/frameworks/react.svg" alt="react badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+    <a href="#">
+        <img src="./svg/dev/frameworks/bootstrap.svg" alt="bootstrap badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+    <a href="#">
+        <img src="./svg/dev/languages/js.svg" alt="js badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+    <a href="#">
+        <img src="./svg/dev/services/aws.svg" alt="aws badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+    <a href="#">
+        <img src="./svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+    <a href="#">
+        <img src="./svg/dev/services/codewars.svg" alt="codewars badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+    <a href="#">
+        <img src="./svg/dev/tools/docker.svg" alt="docker badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+    <a href="#">
+        <img src="./svg/dev/tools/jetbrains_webstorm.svg" alt="jetbrains_webstorm badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+    <a href="#">
+        <img src="./svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code badge" style="vertical-align:top; margin:6px 4px;">
+    </a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrminer&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
